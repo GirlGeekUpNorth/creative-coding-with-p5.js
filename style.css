@@ -15,10 +15,24 @@ iframe {
     border:none;
  
 }
+
+#frameIMG{
+    display: block;;
+    border-style: solid;
+}
 img{
 
     display:block;
     margin:auto;
+    padding:10px;
+    border:none;
+}
+.detail{
+    
+    display:block;
+    background-color: blanchedalmond;
+    margin-left: 20% ;
+    margin-right: 20%;
     padding:10px;
     border:none;
 }
