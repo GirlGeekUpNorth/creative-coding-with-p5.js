@@ -1,8 +1,22 @@
 body {
-    background-color:peachpuff;
+    background-color:rgb(255, 218, 185);
 }
 
 iframe {
+    display:block;
+    margin:auto;
+    padding:10px;
+    border:none;
+}
+.detail{
+    text-align: center;
+    margin:auto;
+    padding:10px;
+    border:none;
+ 
+}
+img{
+
     display:block;
     margin:auto;
     padding:10px;
