@@ -22,3 +22,23 @@ img{
     padding:10px;
     border:none;
 }
+nav {
+        border-radius: 5%;
+    font-size: 1.7em;
+  }
+  nav > ul {
+    overflow:hidden;
+    list-style-type: none;
+    background-color:rgb(249, 190, 139)
+}
+nav > ul > li {
+    float: right;
+    display:block;
+    color: #1c1c0c;
+    text-align: center;
+    padding: 10px;
+}
+nav > ul > li > a {
+    text-decoration: none;
+    color: #1c1c0c;
+}
